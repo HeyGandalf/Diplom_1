@@ -41,6 +41,7 @@ htmlcov/
 coverage.xml
 *.cover
 *.tox
+.coverage
 
 # Other IDE configurations
 *.iml
